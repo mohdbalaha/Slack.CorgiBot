@@ -1,0 +1,23 @@
+{
+  "name": "slack.corgibot",
+  "version": "1.0.0",
+  "description": "This app adds a picture of a corgi anytime someone uses the words \"dog\", \"corgi\", \"butt\", and \"shake\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdbalaha/Slack.CorgiBot.git"
+  },
+  "author": "Nour Balaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdbalaha/Slack.CorgiBot/issues"
+  },
+  "homepage": "https://github.com/mohdbalaha/Slack.CorgiBot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
